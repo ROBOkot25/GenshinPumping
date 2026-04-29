@@ -45,7 +45,7 @@ namespace ScreenshotOcrReader
         private static readonly string ScreenshotsFolder = @"screenshots";
         private static readonly string TessDataPath = @"tessdata";
         private static readonly string DebugPath = @"debug_photo";
-        private static readonly string ExcelFilePath = @"E:\3. Игры\Геншин\Геншин.xlsx";
+        private static readonly string ExcelFilePath = @"Геншин.xlsx";
         private static readonly string OcrLanguage = "rus";
 
         [DllImport("kernel32.dll")]
