@@ -1,0 +1,7 @@
+-target netstandard2.0
+-input 7.0
+-input 
+-output "D:\Desktop\GenshinPumping\obj\x64\Debug\Generated Files\CsWinRT"
+
+-exclude Windows
+-exclude Microsoft

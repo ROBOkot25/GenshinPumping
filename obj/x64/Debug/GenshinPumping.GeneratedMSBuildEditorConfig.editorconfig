@@ -1,0 +1,8 @@
+is_global = true
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotExportsEnabled = false
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = false
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = false
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = false
+build_property.CsWinRTAotWarningLevel = 1

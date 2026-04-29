@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36602.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshinPumping", "GenshinPumping.csproj", "{562EB06D-D716-42F3-96F3-58E33C7ACAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562EB06D-D716-42F3-96F3-58E33C7ACAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562EB06D-D716-42F3-96F3-58E33C7ACAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562EB06D-D716-42F3-96F3-58E33C7ACAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562EB06D-D716-42F3-96F3-58E33C7ACAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4782F3C6-E70D-4233-B982-3960C82D3B85}
+	EndGlobalSection
+EndGlobal
